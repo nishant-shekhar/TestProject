@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPro</string>
+    <string name="complain_list">Complain List</string>
+    <string name="complain_detail">Complain Details</string>
+</resources>
